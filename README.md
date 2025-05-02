@@ -11,13 +11,13 @@ A Spring Boot-based backend application for online movie ticket booking. This sy
 - Browse list of available movies, theaters, and shows
 - View show details and select seats
 - Book tickets with selected seats
-- View booking history (if implemented)
+- View booking history 
 
 ### 🛠️ Admin Features
 - Add / update / delete movies
 - Add / update / delete theaters
 - Add / update / delete shows
-- View all bookings (optional)
+- View all bookings 
 - Manage screen types and capacity for theaters
 
 ---
