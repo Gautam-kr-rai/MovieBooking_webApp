@@ -5,17 +5,30 @@ booking, built with Spring Boot and MySQL. This application simplifies the compl
 movie bookings, providing a robust architecture for both users and administrators.
 ---
 
-## Why MovieBooking_webApp?
+## 📌 Why MovieBooking_webApp?
+
 This project aims to enhance the movie ticketing experience by offering a comprehensive set of features.
-The core features include:
-Spring Boot Integration: Streamlines application setup, allowing developers to focus on building
-features.
-MySQL Database Support: Ensures robust data management for user and movie information.
-RESTful API: Provides a clean interface for managing movies, bookings, and user authentication.
-Role-Based Access Control: Implements secure user management for differentiated access levels.
-Comprehensive Booking Management: Streamlines the booking process, enhancing user
-experience.
-Custom Security Features: Utilizes JWT for secure authentication, protecting user data effectively.
+
+### 🔧 Core Features
+
+- **Spring Boot Integration**  
+  Streamlines application setup, allowing developers to focus on building features.
+
+- **MySQL Database Support**  
+  Ensures robust data management for user and movie information.
+
+- **RESTful API**  
+  Provides a clean interface for managing movies, bookings, and user authentication.
+
+- **Role-Based Access Control**  
+  Implements secure user management for differentiated access levels.
+
+- **Comprehensive Booking Management**  
+  Streamlines the booking process, enhancing user experience.
+
+- **Custom Security Features**  
+  Utilizes JWT for secure authentication, effectively protecting user data.
+
 
 ## 📌 Features
 
